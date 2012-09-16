@@ -8,8 +8,7 @@ import org.apache.log4j.xml.DOMConfigurator;
 /**
  * Class containing the main method in which the application runs.
  * 
- * @author Roger Knecht, David Elsener
- *
+ * @author Roger Knecht, David Elsener (zhaw)
  */
 public class Application {
 

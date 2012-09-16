@@ -6,7 +6,7 @@ import org.junit.Test;
 /**
  * Tests the base functionality of this application.
  * 
- * @author Roger Knecht, David Elsener
+ * @author Roger Knecht, David Elsener (zhaw)
  *
  */
 public class ApplicationTest {
