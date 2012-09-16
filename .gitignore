@@ -1,0 +1,6 @@
+# ignore eclipse specific files
+.project
+.classpath
+
+# ignore maven generated target folder
+target
